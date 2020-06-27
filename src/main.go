@@ -8,6 +8,8 @@ import (
 	"strconv"
 	"strings"
 	"time"
+	"encoding/json"
+	"math/rand"
 )
 
 func main() {
@@ -44,7 +46,7 @@ func enviar(url string, hilos string, solicitudes string, archivo string) {
 		return
 	}
 	contenido, err3 := ioutil.ReadFile(archivo)
-	fmt.Println("Contenido ", string(contenido))
+	//fmt.Println("Contenido ", string(contenido))
 	if err3 != nil {
 		fmt.Println("Error, no se pudo abrir el archivo")
 		return
@@ -56,11 +58,21 @@ func enviar(url string, hilos string, solicitudes string, archivo string) {
 	}
 
 }
-
+type persona struct {
+    Nombre   string
+	Departamento string
+	Edad int
+	Forma string
+	Estado string
+}
 func thread(url string, cantidad int, archivo string) {
+	bytes := []byte(archivo)
+    // Unmarshal string into structs.
+    var people []persona
+	json.Unmarshal(bytes, &people)
 	for i := 0; i < cantidad; i++ {
-		fmt.Println("Solicitud ", i, url)
-		fmt.Println(archivo)
+		indi:=rand.Intn(len(people))
+		fmt.Println(people[indi])
 	}
 	time.Sleep(120)
 }

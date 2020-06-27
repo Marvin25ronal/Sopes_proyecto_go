@@ -1,0 +1,1059 @@
+[
+  {
+    "Nombre": "Albert Goodwin",
+    "Departamento": "Quetzaltenango",
+    "Edad": 38,
+    "Forma de Contagio": "No info",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Tyson Benton",
+    "Departamento": "Alta Verapaz",
+    "Edad": 52,
+    "Forma de Contagio": "No info",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Pena Noble",
+    "Departamento": "Petén",
+    "Edad": 60,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Marion Martinez",
+    "Departamento": "Alta Verapaz",
+    "Edad": 27,
+    "Forma de Contagio": "No info",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Reese Farley",
+    "Departamento": "Baja Verapaz",
+    "Edad": 45,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Bridges Pacheco",
+    "Departamento": "Petén",
+    "Edad": 74,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Reva Henson",
+    "Departamento": "Suchitepéquez",
+    "Edad": 16,
+    "Forma de Contagio": "No info",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Clayton Mcmillan",
+    "Departamento": "San Marcos",
+    "Edad": 46,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Gay Golden",
+    "Departamento": "Alta Verapaz",
+    "Edad": 26,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Ferguson Eaton",
+    "Departamento": "Quetzaltenango",
+    "Edad": 48,
+    "Forma de Contagio": "No info",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Hanson Burks",
+    "Departamento": "Santa Rosa",
+    "Edad": 33,
+    "Forma de Contagio": "No info",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Ilene Guthrie",
+    "Departamento": "Petén",
+    "Edad": 42,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Mcintosh Sargent",
+    "Departamento": "Chiquimula",
+    "Edad": 72,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Geneva Horne",
+    "Departamento": "Huehuetenango",
+    "Edad": 68,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Carly Suarez",
+    "Departamento": "Escuintla",
+    "Edad": 59,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Kirkland Holden",
+    "Departamento": "Petén",
+    "Edad": 20,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Nikki Smith",
+    "Departamento": "Quetzaltenango",
+    "Edad": 60,
+    "Forma de Contagio": "No info",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Ophelia Warren",
+    "Departamento": "Santa Rosa",
+    "Edad": 41,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Bray Mcconnell",
+    "Departamento": "El Progreso",
+    "Edad": 50,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Mcdaniel Castaneda",
+    "Departamento": "Sololá",
+    "Edad": 25,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Fox Stanley",
+    "Departamento": "Petén",
+    "Edad": 30,
+    "Forma de Contagio": "No info",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Contreras Parker",
+    "Departamento": "San Marcos",
+    "Edad": 37,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Mcdowell Beasley",
+    "Departamento": "Chimaltenango",
+    "Edad": 31,
+    "Forma de Contagio": "No info",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Michael Chavez",
+    "Departamento": "Quetzaltenango",
+    "Edad": 38,
+    "Forma de Contagio": "No info",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Green Blanchard",
+    "Departamento": "Chiquimula",
+    "Edad": 38,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Kellie Clarke",
+    "Departamento": "Santa Rosa",
+    "Edad": 65,
+    "Forma de Contagio": "No info",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Cassandra Conway",
+    "Departamento": "Suchitepéquez",
+    "Edad": 40,
+    "Forma de Contagio": "No info",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Johnnie Larsen",
+    "Departamento": "Santa Rosa",
+    "Edad": 40,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Colon Oliver",
+    "Departamento": "Chimaltenango",
+    "Edad": 72,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Angelita Jackson",
+    "Departamento": "Sololá",
+    "Edad": 74,
+    "Forma de Contagio": "No info",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Mccray Hood",
+    "Departamento": "Suchitepéquez",
+    "Edad": 35,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Cabrera Stout",
+    "Departamento": "Chimaltenango",
+    "Edad": 67,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Strong Glass",
+    "Departamento": "Totonicapán",
+    "Edad": 35,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Mclean Randolph",
+    "Departamento": "Zacapa",
+    "Edad": 19,
+    "Forma de Contagio": "No info",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Keller Diaz",
+    "Departamento": "Sololá",
+    "Edad": 41,
+    "Forma de Contagio": "No info",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Phoebe Stewart",
+    "Departamento": "Escuintla",
+    "Edad": 41,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Marisa Dunn",
+    "Departamento": "Quiché",
+    "Edad": 80,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Mildred Gibbs",
+    "Departamento": "Sacatepéquez",
+    "Edad": 29,
+    "Forma de Contagio": "No info",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Zimmerman Walker",
+    "Departamento": "Quetzaltenango",
+    "Edad": 23,
+    "Forma de Contagio": "No info",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Dorothy Reyes",
+    "Departamento": "Totonicapán",
+    "Edad": 38,
+    "Forma de Contagio": "No info",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Mayer Carr",
+    "Departamento": "Quiché",
+    "Edad": 76,
+    "Forma de Contagio": "No info",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Rice Gay",
+    "Departamento": "Guatemala",
+    "Edad": 78,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Summer Bryant",
+    "Departamento": "Suchitepéquez",
+    "Edad": 16,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Alison Moody",
+    "Departamento": "Petén",
+    "Edad": 27,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Clark Heath",
+    "Departamento": "Izabal",
+    "Edad": 45,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Lawson Zimmerman",
+    "Departamento": "Sacatepéquez",
+    "Edad": 74,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Whitfield Ewing",
+    "Departamento": "Guatemala",
+    "Edad": 48,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Montgomery Mcknight",
+    "Departamento": "Escuintla",
+    "Edad": 58,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Grace Rowland",
+    "Departamento": "Petén",
+    "Edad": 57,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Carey Hardy",
+    "Departamento": "Quiché",
+    "Edad": 73,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Chris Simpson",
+    "Departamento": "El Progreso",
+    "Edad": 78,
+    "Forma de Contagio": "No info",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Shaffer Stanton",
+    "Departamento": "Suchitepéquez",
+    "Edad": 39,
+    "Forma de Contagio": "No info",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Mandy Lang",
+    "Departamento": "El Progreso",
+    "Edad": 50,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Berg Morton",
+    "Departamento": "Sololá",
+    "Edad": 64,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Chrystal Hudson",
+    "Departamento": "Sololá",
+    "Edad": 23,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Lee Wilkins",
+    "Departamento": "Sololá",
+    "Edad": 17,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Alexandria Curry",
+    "Departamento": "Izabal",
+    "Edad": 57,
+    "Forma de Contagio": "No info",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Miller Bauer",
+    "Departamento": "Chimaltenango",
+    "Edad": 28,
+    "Forma de Contagio": "No info",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Tanisha Compton",
+    "Departamento": "Chiquimula",
+    "Edad": 64,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Chavez Mueller",
+    "Departamento": "Totonicapán",
+    "Edad": 51,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Armstrong Fitzpatrick",
+    "Departamento": "Guatemala",
+    "Edad": 51,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Sheppard Gutierrez",
+    "Departamento": "Izabal",
+    "Edad": 16,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Davenport Dyer",
+    "Departamento": "Jalapa",
+    "Edad": 15,
+    "Forma de Contagio": "No info",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Rosalinda Williamson",
+    "Departamento": "Chiquimula",
+    "Edad": 71,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Jan Mann",
+    "Departamento": "Baja Verapaz",
+    "Edad": 35,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Jacklyn Moran",
+    "Departamento": "Alta Verapaz",
+    "Edad": 63,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Vinson Lara",
+    "Departamento": "Retalhuleu",
+    "Edad": 43,
+    "Forma de Contagio": "No info",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Cleveland Gibson",
+    "Departamento": "Totonicapán",
+    "Edad": 17,
+    "Forma de Contagio": "No info",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Marcia Pate",
+    "Departamento": "Suchitepéquez",
+    "Edad": 36,
+    "Forma de Contagio": "No info",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Brooke Ball",
+    "Departamento": "Izabal",
+    "Edad": 66,
+    "Forma de Contagio": "No info",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Oliver Mclaughlin",
+    "Departamento": "Chiquimula",
+    "Edad": 58,
+    "Forma de Contagio": "No info",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Vera Mckay",
+    "Departamento": "Sacatepéquez",
+    "Edad": 17,
+    "Forma de Contagio": "No info",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Sandy Puckett",
+    "Departamento": "Quetzaltenango",
+    "Edad": 37,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Dunn Stuart",
+    "Departamento": "Sacatepéquez",
+    "Edad": 28,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Hensley Kelly",
+    "Departamento": "Guatemala",
+    "Edad": 18,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Meredith Sellers",
+    "Departamento": "Baja Verapaz",
+    "Edad": 30,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Benson Miranda",
+    "Departamento": "Retalhuleu",
+    "Edad": 49,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Hunt Foster",
+    "Departamento": "Sacatepéquez",
+    "Edad": 40,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Berger Randall",
+    "Departamento": "San Marcos",
+    "Edad": 15,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Sadie Frederick",
+    "Departamento": "Izabal",
+    "Edad": 53,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Duran Durham",
+    "Departamento": "Chiquimula",
+    "Edad": 35,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Aileen Mcgee",
+    "Departamento": "San Marcos",
+    "Edad": 78,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Kayla Cooke",
+    "Departamento": "Quiché",
+    "Edad": 65,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Ford Wong",
+    "Departamento": "Izabal",
+    "Edad": 63,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Dunlap Acosta",
+    "Departamento": "Suchitepéquez",
+    "Edad": 44,
+    "Forma de Contagio": "No info",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Warner Peterson",
+    "Departamento": "Alta Verapaz",
+    "Edad": 19,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Katina Baird",
+    "Departamento": "Jalapa",
+    "Edad": 21,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Mcleod Hendricks",
+    "Departamento": "Huehuetenango",
+    "Edad": 66,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Kristy Cardenas",
+    "Departamento": "Jutiapa",
+    "Edad": 39,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Sears Meyers",
+    "Departamento": "Petén",
+    "Edad": 31,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Lourdes Sears",
+    "Departamento": "Sacatepéquez",
+    "Edad": 33,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Herminia Houston",
+    "Departamento": "Chiquimula",
+    "Edad": 28,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Mollie Barlow",
+    "Departamento": "Zacapa",
+    "Edad": 62,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Wilkerson Barr",
+    "Departamento": "Huehuetenango",
+    "Edad": 79,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Polly Hart",
+    "Departamento": "Huehuetenango",
+    "Edad": 24,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Jewel Hinton",
+    "Departamento": "Alta Verapaz",
+    "Edad": 51,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Christian Sutton",
+    "Departamento": "San Marcos",
+    "Edad": 25,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Underwood Phillips",
+    "Departamento": "Chimaltenango",
+    "Edad": 70,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Juliet Fletcher",
+    "Departamento": "Guatemala",
+    "Edad": 50,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Amy Strong",
+    "Departamento": "Chiquimula",
+    "Edad": 45,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Laverne Wiley",
+    "Departamento": "Quiché",
+    "Edad": 66,
+    "Forma de Contagio": "No info",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Dolores Benson",
+    "Departamento": "Baja Verapaz",
+    "Edad": 58,
+    "Forma de Contagio": "No info",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Eaton Quinn",
+    "Departamento": "Retalhuleu",
+    "Edad": 28,
+    "Forma de Contagio": "No info",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Sheri Bennett",
+    "Departamento": "Retalhuleu",
+    "Edad": 73,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Viola Hester",
+    "Departamento": "Totonicapán",
+    "Edad": 79,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Gross Madden",
+    "Departamento": "Sacatepéquez",
+    "Edad": 30,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Michele Norton",
+    "Departamento": "Alta Verapaz",
+    "Edad": 31,
+    "Forma de Contagio": "No info",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Douglas Delgado",
+    "Departamento": "Guatemala",
+    "Edad": 53,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Alston Horn",
+    "Departamento": "Santa Rosa",
+    "Edad": 64,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Jefferson Valenzuela",
+    "Departamento": "Chimaltenango",
+    "Edad": 80,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Brigitte Bradshaw",
+    "Departamento": "Suchitepéquez",
+    "Edad": 79,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Livingston Marshall",
+    "Departamento": "Zacapa",
+    "Edad": 76,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Oneal Castro",
+    "Departamento": "Suchitepéquez",
+    "Edad": 62,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Concepcion Alvarado",
+    "Departamento": "Retalhuleu",
+    "Edad": 28,
+    "Forma de Contagio": "No info",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Kemp Dominguez",
+    "Departamento": "Suchitepéquez",
+    "Edad": 53,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Bond Hopkins",
+    "Departamento": "Retalhuleu",
+    "Edad": 74,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Garner Potts",
+    "Departamento": "Retalhuleu",
+    "Edad": 37,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Bernadine Orr",
+    "Departamento": "Quetzaltenango",
+    "Edad": 33,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Campbell Stokes",
+    "Departamento": "Jalapa",
+    "Edad": 23,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Estelle Owens",
+    "Departamento": "Totonicapán",
+    "Edad": 64,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Ursula Watkins",
+    "Departamento": "Jalapa",
+    "Edad": 40,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Harris Boyle",
+    "Departamento": "Jalapa",
+    "Edad": 71,
+    "Forma de Contagio": "No info",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Jasmine Paul",
+    "Departamento": "Huehuetenango",
+    "Edad": 32,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Morse Gaines",
+    "Departamento": "Jutiapa",
+    "Edad": 46,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Rebekah Walton",
+    "Departamento": "Zacapa",
+    "Edad": 54,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Hamilton Harvey",
+    "Departamento": "El Progreso",
+    "Edad": 48,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Martha Hodge",
+    "Departamento": "Zacapa",
+    "Edad": 62,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Cleo Holland",
+    "Departamento": "Suchitepéquez",
+    "Edad": 64,
+    "Forma de Contagio": "No info",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Marlene Chambers",
+    "Departamento": "Izabal",
+    "Edad": 53,
+    "Forma de Contagio": "No info",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Willa Chang",
+    "Departamento": "Zacapa",
+    "Edad": 64,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Lavonne Sykes",
+    "Departamento": "Chimaltenango",
+    "Edad": 61,
+    "Forma de Contagio": "No info",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Dennis Cook",
+    "Departamento": "Chiquimula",
+    "Edad": 59,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Fletcher Guerra",
+    "Departamento": "Izabal",
+    "Edad": 32,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Wells Bradley",
+    "Departamento": "Escuintla",
+    "Edad": 42,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Boyd Rivas",
+    "Departamento": "Zacapa",
+    "Edad": 80,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Blackburn Copeland",
+    "Departamento": "Chimaltenango",
+    "Edad": 46,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Kristi Garcia",
+    "Departamento": "Escuintla",
+    "Edad": 76,
+    "Forma de Contagio": "No info",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Tucker French",
+    "Departamento": "Quiché",
+    "Edad": 68,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Leta Ellison",
+    "Departamento": "San Marcos",
+    "Edad": 49,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Luz Dawson",
+    "Departamento": "Suchitepéquez",
+    "Edad": 26,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Loretta Blankenship",
+    "Departamento": "Chiquimula",
+    "Edad": 65,
+    "Forma de Contagio": "No info",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Wood Collier",
+    "Departamento": "Escuintla",
+    "Edad": 29,
+    "Forma de Contagio": "No info",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Harrison Camacho",
+    "Departamento": "Escuintla",
+    "Edad": 34,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Solis Phelps",
+    "Departamento": "Suchitepéquez",
+    "Edad": 78,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Wolf Vincent",
+    "Departamento": "Chiquimula",
+    "Edad": 72,
+    "Forma de Contagio": "No info",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Freida Garner",
+    "Departamento": "Alta Verapaz",
+    "Edad": 61,
+    "Forma de Contagio": "No info",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Kramer Livingston",
+    "Departamento": "Jalapa",
+    "Edad": 34,
+    "Forma de Contagio": "Comunitario",
+    "Estado": "Activo"
+  },
+  {
+    "Nombre": "Rhea Berger",
+    "Departamento": "Petén",
+    "Edad": 79,
+    "Forma de Contagio": "No info",
+    "Estado": "Fallecido"
+  },
+  {
+    "Nombre": "Eddie Sweeney",
+    "Departamento": "Suchitepéquez",
+    "Edad": 56,
+    "Forma de Contagio": "No info",
+    "Estado": "Listo para salir"
+  },
+  {
+    "Nombre": "Dale Witt",
+    "Departamento": "Izabal",
+    "Edad": 21,
+    "Forma de Contagio": "No info",
+    "Estado": "Recuperado"
+  },
+  {
+    "Nombre": "Humphrey Pierce",
+    "Departamento": "San Marcos",
+    "Edad": 75,
+    "Forma de Contagio": "Familiar",
+    "Estado": "Listo para salir"
+  }
+]
