@@ -66,7 +66,7 @@ type persona struct {
     Nombre   string
 	Departamento string
 	Edad int
-	Forma string
+	Forma string `json:"Forma de Contagio"`
 	Estado string
 }
 func thread(url string, cantidad int, archivo string) {
@@ -77,7 +77,7 @@ func thread(url string, cantidad int, archivo string) {
 	for i := 0; i < cantidad; i++ {
 		indi:=rand.Intn(len(people))
 		per:=people[indi]
-		cadena:=fmt.Sprintf("{\"Nombre\":\"%s\",\"Departamento\":\"%s\",\"Edad\":\"%d\",\"Forma de Contagio\":\"%s\",\"Estado\":\"%s\"}",per.Nombre,per.Departamento,per.Edad,per.Forma,per.Estado)
+		cadena:=fmt.Sprintf("{\"Nombre\":\"%s\",\"Departamento\":\"%s\",\"Edad\":%d,\"Forma\":\"%s\",\"Estado\":\"%s\"}",per.Nombre,per.Departamento,per.Edad,per.Forma,per.Estado)
 		datos:=[]byte(cadena)
 		resp, err:=http.Post(url,"application/json",bytes.NewBuffer(datos))
 		fmt.Println(people[indi])
@@ -86,8 +86,7 @@ func thread(url string, cantidad int, archivo string) {
 			print("Error")
 		}
 		defer resp.Body.Close()
-		print("Mandado")
-
+		time.Sleep(200)
 	}
 	time.Sleep(120)
 }
