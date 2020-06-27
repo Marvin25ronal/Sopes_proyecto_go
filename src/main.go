@@ -70,18 +70,24 @@ type persona struct {
 	Estado string
 }
 func thread(url string, cantidad int, archivo string) {
-	bytes := []byte(archivo)
+	bytesp := []byte(archivo)
     // Unmarshal string into structs.
     var people []persona
-	json.Unmarshal(bytes, &people)
+	json.Unmarshal(bytesp, &people)
 	for i := 0; i < cantidad; i++ {
 		indi:=rand.Intn(len(people))
-		resp, err:=http.Post(url,"application/json",bytes.NewBuffer(people[indi]))
+		per:=people[indi]
+		cadena:=fmt.Sprintf("{\"Nombre\":\"%s\",\"Departamento\":\"%s\",\"Edad\":\"%d\",\"Forma de Contagio\":\"%s\",\"Estado\":\"%s\"}",per.Nombre,per.Departamento,per.Edad,per.Forma,per.Estado)
+		datos:=[]byte(cadena)
+		resp, err:=http.Post(url,"application/json",bytes.NewBuffer(datos))
 		fmt.Println(people[indi])
 		if err !=nil{
 			log.Fatalln(err)
+			print("Error")
 		}
 		defer resp.Body.Close()
+		print("Mandado")
+
 	}
 	time.Sleep(120)
 }
