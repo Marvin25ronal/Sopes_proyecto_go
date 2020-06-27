@@ -12,8 +12,9 @@ import (
 	"math/rand"
 	"net/http"
 	"log"
+	"bytes"
 )
-import "bytes"
+
 
 func main() {
 	reader := bufio.NewReader(os.Stdin)
@@ -80,6 +81,7 @@ func thread(url string, cantidad int, archivo string) {
 		if err !=nil{
 			log.Fatalln(err)
 		}
+		defer resp.Body.Close()
 	}
 	time.Sleep(120)
 }
