@@ -10,7 +10,10 @@ import (
 	"time"
 	"encoding/json"
 	"math/rand"
+	"net/http"
+	"log"
 )
+import "bytes"
 
 func main() {
 	reader := bufio.NewReader(os.Stdin)
@@ -72,7 +75,11 @@ func thread(url string, cantidad int, archivo string) {
 	json.Unmarshal(bytes, &people)
 	for i := 0; i < cantidad; i++ {
 		indi:=rand.Intn(len(people))
+		resp, err:=http.Post(url,"application/json",bytes.NewBuffer(people[indi]))
 		fmt.Println(people[indi])
+		if err !=nil{
+			log.Fatalln(err)
+		}
 	}
 	time.Sleep(120)
 }
