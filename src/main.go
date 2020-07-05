@@ -79,6 +79,7 @@ func thread(url string, cantidad int, archivo string) {
 		per:=people[indi]
 		cadena:=fmt.Sprintf("{\"Nombre\":\"%s\",\"Departamento\":\"%s\",\"Edad\":%d,\"Forma\":\"%s\",\"Estado\":\"%s\"}",per.Nombre,per.Departamento,per.Edad,per.Forma,per.Estado)
 		datos:=[]byte(cadena)
+		print(datos)
 		resp, err:=http.Post(url,"application/json",bytes.NewBuffer(datos))
 		fmt.Println(people[indi])
 		if err !=nil{
@@ -87,6 +88,7 @@ func thread(url string, cantidad int, archivo string) {
 		}
 		defer resp.Body.Close()
 		time.Sleep(200)
+		
 	}
 	time.Sleep(120)
 }
